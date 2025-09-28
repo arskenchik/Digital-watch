@@ -17,7 +17,7 @@ The project was developed as part of **EE303** coursework by *Arslan Kenbayev*.
 
 ![image alt](https://github.com/arskenchik/Digital-watch/blob/main/images/sml2.png?raw=true)
 
-![image alt]()
+![image alt](https://github.com/arskenchik/Digital-watch/blob/main/images/sml3.png?raw=true)
 
 ## ⚙️ Features
 - **Normal Mode**: Counts time using a 1 Hz clock input.
