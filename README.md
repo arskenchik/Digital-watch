@@ -11,6 +11,10 @@ The project was developed as part of **EE303** coursework by *Arslan Kenbayev*.
 
 ---
 
+## Simulations
+
+![image alt]()
+
 ## ⚙️ Features
 - **Normal Mode**: Counts time using a 1 Hz clock input.
 - **Time Adjustment**: Allows setting a new hour, minute, and second.
