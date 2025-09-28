@@ -7,7 +7,7 @@ This project implements a **digital clock** in Verilog that can:
 - Set and trigger an alarm
 - Synchronize time operations with a 1 Hz clock signal
 
-The project was developed as part of **EE303** coursework by *Arslan Kenbayev*.
+The project was developed by *Arslan Kenbayev*.
 
 ---
 
