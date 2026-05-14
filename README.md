@@ -60,7 +60,7 @@ The project was developed by *Arslan Kenbayev*.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/digital-clock-verilog.git
