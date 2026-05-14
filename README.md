@@ -1,6 +1,6 @@
 # Digital Clock with Alarm (Verilog)
 
-## 📌 Project Overview
+## Project Overview
 This project implements a **digital clock** in Verilog that can:
 - Display current time (hours, minutes, seconds)
 - Adjust the time manually
@@ -19,7 +19,7 @@ The project was developed by *Arslan Kenbayev*.
 
 ![image alt](https://github.com/arskenchik/Digital-watch/blob/main/images/sml3.png?raw=true)
 
-## ⚙️ Features
+## Features
 - **Normal Mode**: Counts time using a 1 Hz clock input.
 - **Time Adjustment**: Allows setting a new hour, minute, and second.
 - **Alarm Functionality**: Alarm can be set and will trigger when the current time matches.
@@ -27,7 +27,7 @@ The project was developed by *Arslan Kenbayev*.
 
 ---
 
-## 🔌 Inputs & Outputs
+## Inputs & Outputs
 
 **Inputs**
 - `i_clk` : 1 Hz clock input  
@@ -45,14 +45,14 @@ The project was developed by *Arslan Kenbayev*.
 
 ---
 
-## 🖥️ File Structure
+## File Structure
 - `src/digital_watch.sv` → Main Verilog source code  
 - `docs/EE303_Project_Report.docx` → Project report with detailed explanation and results  
 - `sim/testbench.sv` → Testbench for simulation (if included)  
 
 ---
 
-## 🛠️ Simulation Scenarios
+## Simulation Scenarios
 1. **Normal Mode** → Time increments every second.  
 2. **Time Adjustment** → Time is reset to new values and continues counting.  
 3. **Alarm Trigger** → Alarm turns on when set time matches.  
